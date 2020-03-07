@@ -1,0 +1,28 @@
+{
+	"details":{
+		"image":"nature1.jpg",
+		"name":"Yesasri",
+		"email":"ramuneelapu0916@gmail.com",
+		"address":"Visakapatnam",
+		"mobile":"6303331819"
+	},
+	"Career":{
+		"CO":"to become a software engineer"
+	},
+	"education":[
+		{
+            "Institute":"Ravindra Bharathi School",
+			"Degree":"SSC",
+			"Percentage":"98",
+			"Passout":"2016"
+		},
+		{
+			"Institute":"Sri Chaitanya College",
+			"Degree":"Intermediate",
+			"Percentage":"90",
+			"Passout":"2016-2018"
+		},
+
+
+	]
+}
